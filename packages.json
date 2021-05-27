@@ -1,0 +1,25 @@
+[
+	{"package": "spatsoc",
+    "url": "https://github.com/ropensci/spatsoc"
+  },
+  {
+    "package" : "ScaleInMultilayerNetworks",
+    "url" : "https://github.com/robitalec/ScaleInMultilayerNetworks"
+  },
+  {
+    "package": "irg",
+    "url": "https://github.com/robitalec/irg"
+  },
+  {
+    "package": "hwig",
+    "url": "https://github.com/robitalec/hwig"
+  },
+  {
+    "package": "wildcam",
+    "url": "https://github.com/robitalec/wildcam"
+  },
+  {
+    "package": "SocCaribou",
+    "url": "https://github.com/wildlifeevoeco/SocCaribou/"
+  }
+]

@@ -21,5 +21,9 @@
   {
     "package": "SocCaribou",
     "url": "https://github.com/wildlifeevoeco/SocCaribou/"
+  },
+  {
+    "package": "distanceto",
+    "url": "https://github.com/robitalec/distance-to/"
   }
 ]

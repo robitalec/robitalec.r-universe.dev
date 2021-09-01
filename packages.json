@@ -8,7 +8,7 @@
   },
   {
     "package": "irg",
-    "url": "https://gitlab.com/robit.a/irg"
+    "url": "https://github.com/robitalec/irg"
   },
   {
     "package": "hwig",
@@ -25,5 +25,9 @@
   {
     "package": "distanceto",
     "url": "https://github.com/robitalec/distance-to/"
+  },
+  {
+    "package": "preparelocs",
+    "url": "https://github.com/robitalec/prepare-locs/"
   }
 ]

@@ -1,33 +1,42 @@
 [
-	{"package": "spatsoc",
-    "url": "https://github.com/ropensci/spatsoc"
+  { 
+	"package": "spatsoc",
+	"url": "https://github.com/ropensci/spatsoc"
   },
   {
-    "package" : "ScaleInMultilayerNetworks",
-    "url" : "https://github.com/robitalec/ScaleInMultilayerNetworks"
+	"package" : "ScaleInMultilayerNetworks",
+	"url" : "https://github.com/robitalec/ScaleInMultilayerNetworks"
   },
   {
-    "package": "irg",
-    "url": "https://github.com/robitalec/irg"
+	"package": "irg",
+	"url": "https://github.com/robitalec/irg"
   },
   {
-    "package": "hwig",
-    "url": "https://github.com/robitalec/hwig"
+	"package": "hwig",
+	"url": "https://github.com/robitalec/hwig"
   },
   {
-    "package": "wildcam",
-    "url": "https://github.com/robitalec/wildcam"
+	"package": "camtrapmonitoring",
+	"url": "https://github.com/robitalec/camtrapmonitoring"
   },
   {
-    "package": "SocCaribou",
-    "url": "https://github.com/wildlifeevoeco/SocCaribou/"
+	"package": "SocCaribou",
+	"url": "https://github.com/wildlifeevoeco/SocCaribou/"
   },
   {
-    "package": "distanceto",
-    "url": "https://github.com/robitalec/distance-to/"
+	"package": "distanceto",
+	"url": "https://github.com/robitalec/distance-to/"
   },
   {
-    "package": "preparelocs",
-    "url": "https://github.com/robitalec/prepare-locs/"
+	"package": "preparelocs",
+	"url": "https://github.com/robitalec/prepare-locs/"
+  },
+  {
+	"package": "2023-CSEE-reproducible-workflows-workshop",
+	"url": "https://github.com/robitalec/2023-CSEE-reproducible-workflows-workshop"
+  },
+  {
+	"package": "targets-rgee-extract",
+	"url": "https://github.com/robitalec/targets-rgee-extract"
   }
 ]

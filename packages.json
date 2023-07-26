@@ -32,11 +32,11 @@
 	"url": "https://github.com/robitalec/prepare-locs/"
   },
   {
-	"package": "2023-CSEE-reproducible-workflows-workshop",
+	"package": "2023.CSEE.reproducible.workflows.workshop",
 	"url": "https://github.com/robitalec/2023-CSEE-reproducible-workflows-workshop"
   },
   {
-	"package": "targets-rgee-extract",
+	"package": "targets.rgee.extract",
 	"url": "https://github.com/robitalec/targets-rgee-extract"
   }
 ]

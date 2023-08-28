@@ -34,9 +34,5 @@
   {
 	"package": "CSEE.reproducible.workflows.workshop",
 	"url": "https://github.com/robitalec/2023-CSEE-reproducible-workflows-workshop"
-  },
-  {
-	"package": "targets.rgee.extract",
-	"url": "https://github.com/robitalec/targets-rgee-extract"
   }
 ]
